@@ -2,8 +2,7 @@
 Check out the [link]((https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))
 
 ### Watch
-This Video [link](   ) 
-
+This Video [link](https://www.markdownguide.org/basic-syntax/)
 Here is a footnote[^1].👍
 [^1]:Good
 
