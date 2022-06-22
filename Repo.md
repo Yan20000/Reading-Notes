@@ -1,6 +1,5 @@
 ### BookMark
-Check out the [link]((https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))
-
+Check out the [link](https://www.markdownguide.org/basic-syntax/)
 ### Watch
 This Video [link](https://pages.github.com/)
 Here is a footnote[^1].👍
