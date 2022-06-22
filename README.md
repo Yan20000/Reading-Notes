@@ -3,27 +3,16 @@ My name is Jennifer
 # Growth Mindset
 Self Perception, self theory , fixed mindset
 
-![link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+### Self Note for Growth Mindset 
+* keep ask quesitons 
+* continue grow from failure 
+* don't give up
 
+more detail information at ![link](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
+### other interesting notes on coding 
 
-- Bulleted
-- List
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yan20000/ReAding-NoTe/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Fun FaCt about mE
+I got 1 kid! 
