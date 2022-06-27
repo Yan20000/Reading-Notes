@@ -5,3 +5,11 @@ The text editor has to be one of the most important tools you can use as an aspi
 syntax highlight, nice theme, ability choose from healthy extensions._
 
 
+## Read Article about command Line 
+1. terminal = //terminal to open language 
+
+1. ~CD // this is going back to main page 
+1. ~CD Project// go back to main page projects 
+1. git add . //this command is to add this file to commit
+1. git commit -m"createjune22notes" //this is to rename the file or reason why need to push back to GIT HUB.
+
